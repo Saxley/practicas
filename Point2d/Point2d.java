@@ -64,7 +64,7 @@ public class Point2d{
     y *= factor;
   }
   
-  public void rotate(final Point2d p, final Double angle){ // rotamos el punto respecto al origen
+  public void rotate(final Point2d p, final Double angle){ // rotamos el punto respecto a otro punto en un angulo determinado
     Double angrad = toRadians(angle);
     Double x1 = this.x - p.x;
     Double y1 = this.y - p.y;
