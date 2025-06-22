@@ -1,3 +1,7 @@
+package Objetos; 
+//package practicas.Point2d.Objetos; 
+// Para ejecutarlo con paquetes, colocarse en la raiz y compilar con javac direccion del paquete *.java.
+//Para ejecutar con java colocarse en la raiz y ejecutar java direccion del paquete Main ( ó el archivo que contenga el metodo main).
 import static java.lang.Math.*;
 // Point2d :: Esta clase me permite crear puntos en un plano 2d, tiene diferentes funcionalidades:
 // Cuenta el numero de puntos creados con su variable estatica numberOfPoints, esto nos ayida para saver la cabtidad de puntos que se han creado.
