@@ -1,4 +1,4 @@
-package Objetos; 
+package Objetos;
 //package practicas.Point2d.Objetos; 
 // Para ejecutarlo con paquetes, colocarse en la raiz y compilar con javac direccion del paquete *.java.
 //Para ejecutar con java colocarse en la raiz y ejecutar java direccion del paquete Main ( ó el archivo que contenga el metodo main).
