@@ -1,4 +1,5 @@
 import static java.lang.Math.*;
+import Objetos.Point2d;
 public class Circle extends Shape{
   private Double radio;
   public Circle(final Point2d p, final Double r){

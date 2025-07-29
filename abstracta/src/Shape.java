@@ -1,3 +1,4 @@
+import Objetos.Point2d;
 public abstract class Shape{
   private Point2d position;
   public Shape(final Point2d p){

@@ -1,3 +1,4 @@
+import Objetos.Point2d;
 public class Square extends Shape{
   private Double side;
   public Square(final Point2d p, final Double side){
